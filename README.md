@@ -1,2 +1,4 @@
 # hellur
-my first repo
+My first repo
+
+Nkunda Imana
